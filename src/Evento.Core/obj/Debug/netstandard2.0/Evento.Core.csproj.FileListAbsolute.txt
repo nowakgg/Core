@@ -1,0 +1,8 @@
+C:\Projects\Core\src\Evento.Core\obj\Debug\netstandard2.0\Evento.Core.csproj.CoreCompileInputs.cache
+C:\Projects\Core\src\Evento.Core\obj\Debug\netstandard2.0\Evento.Core.AssemblyInfoInputs.cache
+C:\Projects\Core\src\Evento.Core\obj\Debug\netstandard2.0\Evento.Core.AssemblyInfo.cs
+C:\Projects\Core\src\Evento.Core\bin\Debug\netstandard2.0\Evento.Core.deps.json
+C:\Projects\Core\src\Evento.Core\bin\Debug\netstandard2.0\Evento.Core.dll
+C:\Projects\Core\src\Evento.Core\bin\Debug\netstandard2.0\Evento.Core.pdb
+C:\Projects\Core\src\Evento.Core\obj\Debug\netstandard2.0\Evento.Core.dll
+C:\Projects\Core\src\Evento.Core\obj\Debug\netstandard2.0\Evento.Core.pdb

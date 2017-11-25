@@ -1,0 +1,14 @@
+C:\Projects\Core\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Api.deps.json
+C:\Projects\Core\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Api.runtimeconfig.json
+C:\Projects\Core\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Api.runtimeconfig.dev.json
+C:\Projects\Core\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Api.dll
+C:\Projects\Core\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Api.pdb
+C:\Projects\Core\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Core.dll
+C:\Projects\Core\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Infrastructure.dll
+C:\Projects\Core\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Infrastructure.pdb
+C:\Projects\Core\src\Evento.Api\bin\Debug\netcoreapp2.0\Evento.Core.pdb
+C:\Projects\Core\src\Evento.Api\obj\Debug\netcoreapp2.0\Evento.Api.csproj.CoreCompileInputs.cache
+C:\Projects\Core\src\Evento.Api\obj\Debug\netcoreapp2.0\Evento.Api.AssemblyInfoInputs.cache
+C:\Projects\Core\src\Evento.Api\obj\Debug\netcoreapp2.0\Evento.Api.AssemblyInfo.cs
+C:\Projects\Core\src\Evento.Api\obj\Debug\netcoreapp2.0\Evento.Api.dll
+C:\Projects\Core\src\Evento.Api\obj\Debug\netcoreapp2.0\Evento.Api.pdb

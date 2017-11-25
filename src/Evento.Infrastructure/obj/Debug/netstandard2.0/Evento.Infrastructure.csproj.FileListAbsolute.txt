@@ -1,0 +1,10 @@
+C:\Projects\Core\src\Evento.Infrastructure\bin\Debug\netstandard2.0\Evento.Infrastructure.deps.json
+C:\Projects\Core\src\Evento.Infrastructure\bin\Debug\netstandard2.0\Evento.Infrastructure.dll
+C:\Projects\Core\src\Evento.Infrastructure\bin\Debug\netstandard2.0\Evento.Infrastructure.pdb
+C:\Projects\Core\src\Evento.Infrastructure\bin\Debug\netstandard2.0\Evento.Core.dll
+C:\Projects\Core\src\Evento.Infrastructure\bin\Debug\netstandard2.0\Evento.Core.pdb
+C:\Projects\Core\src\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\Core\src\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\Core\src\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.AssemblyInfo.cs
+C:\Projects\Core\src\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.dll
+C:\Projects\Core\src\Evento.Infrastructure\obj\Debug\netstandard2.0\Evento.Infrastructure.pdb
