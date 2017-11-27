@@ -26,6 +26,7 @@
           "AutoMapper": "6.2.1",
           "Evento.Infrastructure": "1.0.0",
           "Microsoft.AspNetCore.All": "2.0.3",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "2.0.1",
           "Microsoft.NETCore.App": "2.0.0"
         },
         "runtime": {
@@ -3828,7 +3829,8 @@
       "Evento.Infrastructure/1.0.0": {
         "dependencies": {
           "AutoMapper": "6.2.1",
-          "Evento.Core": "1.0.0"
+          "Evento.Core": "1.0.0",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "2.0.1"
         },
         "runtime": {
           "Evento.Infrastructure.dll": {}
